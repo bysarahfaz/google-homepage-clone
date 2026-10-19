@@ -2,6 +2,12 @@
 
 A simple recreation of Google's homepage built with HTML and CSS as a beginner web development learning project.
 
+## Live Demo
+
+[View the live website](https://google-homepage-clone-practice.netlify.app/)
+
+> Note: This is a learning project. The search bar and navigation links are visual placeholders and do not provide full functionality.
+
 ## Features
 
 - Responsive homepage layout
