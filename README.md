@@ -1,4 +1,4 @@
-Google Homepage Clone
+##Google Homepage Clone
 
 A simple recreation of Google's homepage built with HTML and CSS as a beginner web development learning project.
 
